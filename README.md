@@ -1,3 +1,6 @@
+# Welcome to the Automate OCI with Terraform! 
+We are using feature branches and pull requests to track changes Never commit to main directly
+
 # FoggyKitchen Terraform OCI Course
 
 ## Course description
